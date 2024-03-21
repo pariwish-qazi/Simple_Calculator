@@ -1,9 +1,10 @@
 {
-  "name": "simple-calculator",
-  "version": "1.0.0",
+  "name": "bisma-simple-calculator",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "calculator",
   "dependencies": {
     "ansi-escapes": "^4.3.2",
     "ansi-regex": "^5.0.1",
